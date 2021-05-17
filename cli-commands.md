@@ -14,7 +14,7 @@ This commands are useable with the cli as well as the wallet (console)
 `getmininginfo` => miner infos, stats  
 `getnodeaddresses` => find potential new nodes in the network  
 
-#### fun with the gothcain
+#### fun with the gothchain
 Verify the genesis block:  
 `gothcoin-cli getblockhash 0` => `629ad0c776b91ca669e53a1172e7e2cf9ea71fe47f9b9b798c4d25159e988abe`  
 
