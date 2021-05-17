@@ -13,5 +13,8 @@ CFLAGS="-march=native" ./configure
 make
 sudo make install
 ```  
+### Get an Wallet address
+Install the Windows or Linux wallets (https://github.com/gothcoin/wallet) and check Window => Receiving Addresses  
+
 ### Start mining
-`minerd -o stratum+tcp://gothpool.gothcoin.cc:3256 -u WALLET -p 1234`
+`minerd -o stratum+tcp://gothpool.gothcoin.cc:3333 -u YOUR_ADDRESS -p PASSWORD`
