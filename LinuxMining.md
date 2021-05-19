@@ -14,7 +14,7 @@ make
 sudo make install
 ```  
 ### Get an Wallet address
-Install the Windows or Linux wallets (https://github.com/gothcoin/wallet) and check Window => Receiving Addresses  
+Install the Windows, OSX or Linux wallets (https://github.com/gothcoin/wallet) and check Window => Receiving Addresses  
 
 ### Start mining
 `minerd -o stratum+tcp://gothpool.gothcoin.cc:3333 -u YOUR_ADDRESS -p A_PASSWORD`
